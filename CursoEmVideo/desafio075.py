@@ -18,3 +18,11 @@ for escolher in range(1, 6):
 
 print(f'\nO maior valor sorteado foi {maior}')
 print(f'O menor valor sorteado foi {menor}')
+
+'''n = (randint(1, 10), randint(1, 10), randint(1, 10), randint(1, 10), randint(1, 10),
+     randint(1, 10),)
+print('Os valores sorteadors foram:', end='')
+for n in numeros:
+    print(f'{n} ', end='')
+print(f'\nO maior valor sorteado foi {max(numeros)}')
+print(f'O menor valor sorteado foi {min(numeros)}')'''
